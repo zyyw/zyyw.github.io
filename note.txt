@@ -22,3 +22,6 @@ basic jobs for computer:
 	* text processing
 	* math calculating
  	* database interaction	
+
+++++++
+ingore message
