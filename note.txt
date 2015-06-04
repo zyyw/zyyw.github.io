@@ -1,0 +1,24 @@
+April 4th, 2015
+** Linux kernel **
+* monolithic / modular kernels
+* initial RAMDISK
+* updating / upgrading kernel
+
+
+April 4th, 2015
+** file compression and decompression **
+** Mac OS X users
+*   .tar.gz
+	-- unzip: gunzip -c foo.tar.gz | tar xopf -
+		  or: gunzip -c foo.tar.gz | tar xopft -
+*   .tar
+	-- unzip: tar xopf foo.tar
+		  or: tar xopft foo.tar
+*   .zip
+	-- unzip: unzip -a foo.zip
+
+April 28th, 2015
+basic jobs for computer: 
+	* text processing
+	* math calculating
+ 	* database interaction	
