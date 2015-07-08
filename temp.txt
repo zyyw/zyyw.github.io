@@ -1,3 +1,0 @@
-ignore msg
-ignore msg two
-ignore msg three
