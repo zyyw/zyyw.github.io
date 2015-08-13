@@ -23,5 +23,19 @@ basic jobs for computer:
 	* math calculating
  	* database interaction	
 
-++++++
-ingore message
+August 2015,
+[Server]
+Web Server: Lighttpd, Apache, Nginx (written in C)
+Application Server: JavaEE(java), .Net framework(C#), Django framework(python), Ruby on Rails(ruby) 
+Database Server: MySQL, SQL Server, Oracle 
+Others: ftp server 
+
+|
+| Protocol: TCP/IP, HTTP, ftp  
+|
+
+[Client]
+Web application: Chrome, FireFox, IE
+	(HTML, CSS, Javascript)
+Skype, QQ 
+ftp client
