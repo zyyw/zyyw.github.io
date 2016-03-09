@@ -39,3 +39,6 @@ Web application: Chrome, FireFox, IE
 	(HTML, CSS, Javascript)
 Skype, QQ 
 ftp client
+
+August 26th, 2015
+“最后，编程语言并非计算机科学技术的全部，尤其对于在校的学生来说，打好基础、开阔视野都是非常重要的。”

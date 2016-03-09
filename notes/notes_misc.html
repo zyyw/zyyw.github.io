@@ -40,8 +40,27 @@
 			[ Mac OS X ] <br/>
 			cat file.txt | pbcopy <br/>
 			pbpaste &gt ~/somefolder/copied_file.txt <br/>
+			unzip files
+			.tar.gz
+				-- unzip: gunzip -c foo.tar.gz | tar xopf -
+					  or: gunzip -c foo.tar.gz | tar xopft -
+			.tar
+				-- unzip: tar xopf foo.tar
+					  or: tar xopft foo.tar
+			.zip
+				-- unzip: unzip -a foo.zip
+
 			[ Linux Network ]<br/>
+			configure linux network: <br/>
 			<a href="http://man7.org/linux/man-pages/man5/host.conf.5.html">hosts,</a>resolv.conf, hostname<br/> 
+			check an application is installed or not:<br/>
+			dpkg -s openssh-client <a href='http://www.cyberciti.biz/faq/find-out-if-package-is-installed-in-linux/'>link</a><br/>
+			dpkg -s openssh-server <br/>
+			<br/>estimate file space usage:
+			du filename.txt<br/> 
+			du -h filename.txt<br/> 
+
+
 		</div>
 		<div>
 			<br/>
@@ -56,7 +75,8 @@
 		</br>
 		<div>
 			News:</br>
-			<a href="http://developer.51cto.com/art/201508/487367.htm">大数据全栈式开发语言 – Python</a></br>
+			<a href="http://developer.51cto.com/art/201508/487367.htm">大数据全栈式开发语言 – Python</a><br />
+			<a href="http://36kr.com/p/531511.html">用什么样的语言就有什么样的公司</a><br />
 		</div>
 		<!--
 		<video width="320" height="240" autoplay loop>

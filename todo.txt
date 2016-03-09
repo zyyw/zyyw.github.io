@@ -1,0 +1,4 @@
+1. 看人用c艹做面试题真是心塞啊，连个split string都要手写
+
+康托编码和解码
+http://blog.csdn.net/synapse7/article/details/16901489

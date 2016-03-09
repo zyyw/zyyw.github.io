@@ -1,0 +1,11 @@
+end-of-file character (usually Control-D)
+
+Unbuffered I/O: 
+<unistd.h>; open, read, write, lseek, and close.
+Standard I/O:
+<stdio.h>; printf, scanf, fgets, getc
+
+compare:  The standard I/O functions also simplify dealing with lines of input (a common occurrence in UNIX applications). The fgets function, for example, reads an entire line. The read function, in contrast, reads a specified number of bytes.
+wiki: 
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#The_C_standard_library
+
