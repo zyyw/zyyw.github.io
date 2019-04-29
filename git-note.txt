@@ -1,0 +1,26 @@
+[ tag ]
+* list all the tags
+git tag
+* add a tag
+git tag <tag_name>
+* push tags to remote repo
+git push origin --tags
+* delete a tag
+git tag -d <tag_name>
+git push origin :refs/tags/<tag_name>
+
+[ remote ]
+* add remote track
+git remote add origin git@github.com:User/UserRepo.git
+* update remote track
+git remote set-url origin git@github.com:User/UserRepo.git
+* display remote info
+git remote -v
+* push your code to the master branch of the remote repository defined with origin and -u 
+git push -u origin master
+* based on the remote branch "origin/newsletter", to have a new local branch name "newsletter"
+git checkout --track origin/newsletter
+* display all remote branch
+git branch -r
+
+
