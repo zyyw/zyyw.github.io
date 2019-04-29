@@ -23,4 +23,6 @@ git checkout --track origin/newsletter
 * display all remote branch
 git branch -r
 
-
+[ private repo ]
+1. export GITHUB_TOKEN=xxx
+2. git config --global url."https://${GITHUB_TOKEN}:x-oauth-basic@github.com/mycompany".insteadOf "https://github.com/mycompany"
